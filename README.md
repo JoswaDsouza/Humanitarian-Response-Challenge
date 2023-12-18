@@ -1,5 +1,6 @@
 # Humanitarian Response Challenge
-![image](https://github.com/JoswaDsouza/Humanitarian-Response-Challenge/assets/117136563/5cc3bf06-3e83-4a69-bc05-126a25723cbb)
+![image](https://github.com/JoswaDsouza/Humanitarian-Response-Challenge/assets/117136563/180eb8c1-d55f-4a3d-a9ef-f899cea84961)
+
 
 The United Way Bay Area Nonprofit is supporting individuals to find shelter, clothing, and other essential emergency items. United Way Bay Area has received a list of individuals in need of clothing that need to be added to their relief distribution database. Download the spreadsheet and enter every recipient's information into the web application. Click Add after entering each individual's details to commit them to the database. Once all 10 recipients' details have been entered, click Submit to see your score.
 
