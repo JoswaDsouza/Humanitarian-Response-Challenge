@@ -13,7 +13,7 @@ United Way Bay Area helps our Bay Area neighbors dismantle the root causes of po
 
 
 
-challenge Link:https://developer.automationanywhere.com/challenges/humanitarian-response-challenge.html
+challenge Link :https://developer.automationanywhere.com/challenges/humanitarian-response-challenge.html
 
 
 
